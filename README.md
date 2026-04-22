@@ -18,3 +18,16 @@ and Cyber-Web projects to allow fast, secure, and styled content creation.
 [atri-hct-game]     - Embeds the Scratch HCT Game Engine
 ```
 it's *fast for wirte* and *good for web*
+***
+# how to use it 
+```
+<html>
+<head>
+<script src="https://fxs1400.github.io/hct/index.js"></script>
+<title></title>
+</head>
+<body>
+[center][ts1]example[/ts1][/center]
+</body>
+</html>
+```
