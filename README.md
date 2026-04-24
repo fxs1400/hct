@@ -23,10 +23,9 @@ it's *fast for wirte* and *good for web*
 ```
 <html>
 <head>
-<script src="https://fxs1400.github.io/hct/index.js"></script>
 <title></title>
 </head>
-<body>
+<body><script src="https://fxs1400.github.io/hct/index.js"></script>
 [center][ts1]example[/ts1][/center]
 </body>
 </html>
