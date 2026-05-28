@@ -23,10 +23,11 @@ it's *fast for wirte* and *good for web*
 ```
 <html>
 <head>
-<title></title>
+<title>ji</title>
 </head>
-<body><script src="https://fxs1400.github.io/hct/index.js"></script>
+<body>
 [center][ts1]example[/ts1][/center]
+<script src="https://fxs1400.github.io/hct/index.js"></script>
 </body>
 </html>
 ```
