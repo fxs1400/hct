@@ -16,6 +16,7 @@ document.body.innerHTML = document.body.innerHTML.replace(/\[ts3\](.*?)\[\/ts3\]
 document.body.innerHTML = document.body.innerHTML.replace(/\[ts4\](.*?)\[\/ts4\]/gi, '<h4>$1</h4>');
 document.body.innerHTML = document.body.innerHTML.replace(/\[ts5\](.*?)\[\/ts5\]/gi, '<h5>$1</h5>');
 document.body.innerHTML = document.body.innerHTML.replace(/\[ts6\](.*?)\[\/ts6\]/gi, '<h6>$1</h6>');
+document.body.innerHTML = document.body.innerHTML.replace(/\[embed\](.*?)\[\/embed\]/gi, '<embed src="$1"></embed>');
 document.body.innerHTML = document.body.innerHTML.replace(/\[atri-hct-game]/gi, `<iframe src="https://scratch.mit.edu/projects/1287269106/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>`);
 hi();
 }
